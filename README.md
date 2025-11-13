@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-install.github.io/.github/proxyman" target="_blank">  
+<a href="https://get-install-osx.github.io/.github/proxyman" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20MAC-%F0%9F%92%BE-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Proxyman for Mac">  
 </a>  
 </div>  
